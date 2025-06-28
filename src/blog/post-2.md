@@ -1,7 +1,6 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Mi segunda publicación en el blog'
-pubDate: "2025-06-24"
+pubDate: 2025-06-24
 description: "Después de aprender un poco de Astro, ¡no podía parar!"
 author: Alumno de Astro
 image:

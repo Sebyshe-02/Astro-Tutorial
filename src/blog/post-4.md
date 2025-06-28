@@ -1,7 +1,6 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Mi cuarta entrada en el blog'
-pubDate: "2025-06-25"
+pubDate: 2025-06-25
 description: "Esta entrada aparecerá sola!"
 author: Alumno de Astro
 image:
